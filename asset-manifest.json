@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FCC_random-quote-machine/static/css/main.d9de68d6.chunk.css",
+    "main.js": "/FCC_random-quote-machine/static/js/main.600ea274.chunk.js",
+    "main.js.map": "/FCC_random-quote-machine/static/js/main.600ea274.chunk.js.map",
+    "runtime-main.js": "/FCC_random-quote-machine/static/js/runtime-main.e5025bc6.js",
+    "runtime-main.js.map": "/FCC_random-quote-machine/static/js/runtime-main.e5025bc6.js.map",
+    "static/js/2.95ec1d2f.chunk.js": "/FCC_random-quote-machine/static/js/2.95ec1d2f.chunk.js",
+    "static/js/2.95ec1d2f.chunk.js.map": "/FCC_random-quote-machine/static/js/2.95ec1d2f.chunk.js.map",
+    "index.html": "/FCC_random-quote-machine/index.html",
+    "precache-manifest.a1ed3d374b90c65d61b3f98462474456.js": "/FCC_random-quote-machine/precache-manifest.a1ed3d374b90c65d61b3f98462474456.js",
+    "service-worker.js": "/FCC_random-quote-machine/service-worker.js",
+    "static/css/main.d9de68d6.chunk.css.map": "/FCC_random-quote-machine/static/css/main.d9de68d6.chunk.css.map",
+    "static/js/2.95ec1d2f.chunk.js.LICENSE.txt": "/FCC_random-quote-machine/static/js/2.95ec1d2f.chunk.js.LICENSE.txt",
+    "static/media/icons8-twitter.svg": "/FCC_random-quote-machine/static/media/icons8-twitter.40c060f5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5025bc6.js",
+    "static/js/2.95ec1d2f.chunk.js",
+    "static/css/main.d9de68d6.chunk.css",
+    "static/js/main.600ea274.chunk.js"
+  ]
+}
